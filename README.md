@@ -41,7 +41,7 @@ Retrouvez tous mes projets dans mes [repositories](https://github.com/DrkR0ot?ta
 ---
 
 ## 🌟 Où me trouver ?
-- 💬 LinkedIn : [[Lien vers mon LinkedIn](https://www.linkedin.com/in/gregoire-durand-74ooo/)]
+- 💬 LinkedIn : [Lien vers mon LinkedIn](https://www.linkedin.com/in/gregoire-durand-drkr0ot/)
 
 ---
 
