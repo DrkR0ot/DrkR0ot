@@ -32,8 +32,8 @@ J'ai actuellement plusieurs certifications en cybersécurité. Je les ai obtenu 
 
 ## 📂 Mes projets
 Voici quelques projets que je développe ou auxquels je contribue :
-- **[Enumération-RPC](#https://github.com/DrkR0ot/Enumeration-RPC)** : Script permettant de lister les groupes présent sur l'AD et propose de façon interactive de lister les utilisateurs d'un groupe.
-- **[Nom du projet 2](#)** : Description rapide du projet.
+- **[Enumeration RPC](https://github.com/DrkR0ot/Enumeration-RPC)** : Script permettant de lister les groupes présent sur l'AD et propose de façon interactive de lister les utilisateurs d'un groupe.
+- **[Obfuscation](https://github.com/DrkR0ot/Obfuscation)** : Script utilisable sous Linux ou Windows permettant d'obfusquer de façon simple des commandes.
 
 Retrouvez tous mes projets dans mes [repositories](https://github.com/DrkR0ot?tab=repositories).
 
