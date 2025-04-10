@@ -13,7 +13,7 @@ J'ai actuellement plusieurs certifications en cybersécurité. Je les ai obtenu 
 - Junior Penetration Tester (eJPTv2) de chez INE Security ([Voir mes impressions](https:/linkcuts.org/nen51xjv))
 - Virtual Hacking Labs Advanced Level (VHL) de chez VirtualHackingLab ([Voir mes impressions](https:/linkcuts.org/ha4s5hxu))
 - Virtual Hacking Labs Confirmed Level (VHL+) de chez VirtualHackingLab ([Voir mes impressions](https:/linkcuts.org/kdpxexxw))
-- Certified Penetration Testing Specialist (CPTS) de chez HackTheBox ([Voir mes impressions](https:/linkcuts.org/4rzuoeic))
+- Certified Penetration Testing Specialist (CPTS) de chez HackTheBox ([Voir mes impressions](https://www.linkedin.com/posts/gregoire-durand-74ooo_certified-penetration-testing-specialist-activity-7170410937881989120-LzMT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRK-8MBVF6Q2viJ1QWf5MWuQO-QGfp9r88))
 
 ---
 
