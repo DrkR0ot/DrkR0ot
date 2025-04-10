@@ -34,13 +34,14 @@ J'ai actuellement plusieurs certifications en cybersécurité. Je les ai obtenu 
 Voici quelques projets que je développe ou auxquels je contribue :
 - **[Enumeration RPC](https://github.com/DrkR0ot/Enumeration-RPC)** : Script permettant de lister les groupes présent sur l'AD et propose de façon interactive de lister les utilisateurs d'un groupe.
 - **[Obfuscation](https://github.com/DrkR0ot/Obfuscation)** : Script utilisable sous Linux ou Windows permettant d'obfusquer de façon simple des commandes.
+- **[CTF](https://github.com/DrkR0ot/CTF)** : Création de nombreux CTFs pour s'améliorer en sécurité offensive et défensive.
 
 Retrouvez tous mes projets dans mes [repositories](https://github.com/DrkR0ot?tab=repositories).
 
 ---
 
 ## 🌟 Où me trouver ?
-- 💬 LinkedIn : [[Lien vers votre LinkedIn](https://www.linkedin.com/in/gregoire-durand-74ooo/)]
+- 💬 LinkedIn : [[Lien vers mon LinkedIn](https://www.linkedin.com/in/gregoire-durand-74ooo/)]
 
 ---
 
