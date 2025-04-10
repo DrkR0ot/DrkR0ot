@@ -4,9 +4,9 @@
 Salut ! Je suis **DrkR0ot**, un passionné de **cybersécurité offensive**.  
 J'adore explorer, apprendre et partager mes connaissances dans cet univers fascinant.  
 Mon objectif est de contribuer à rendre le monde numérique plus **sûr** et **fiable** tout en aidant les autres à progresser dans ce domaine.
-J'ai débuté avec une formation dans les Systèmes et les Réseaux. Puis en autodidacte aux travers de TryHackMe pour m'orrienter sur la partie offensive. 
-Par la suite j'ai basculé sur la partie académique de chez Hack The Box qui est selon moi l'organisme proposant les cours les plus techniques et complets du marché (Et comme vous le verrez au travers de mes certifications plus bas, j'ai eu de nombreux cours). 
-Cela fait désormais 4ans que j'apprends sur mon temps personnel via des cours de chez HTB et en réalisant les box qu'ils proposent.
+J'ai débuté avec une formation dans les Systèmes et les Réseaux. Puis en **autodidacte** aux travers de **TryHackMe** pour m'orrienter sur la partie **offensive**. 
+Par la suite, j'ai basculé sur la partie académique de chez **Hack The Box** qui est selon moi l'organisme proposant les cours les plus techniques et complets du marché (Et comme vous le verrez au travers de mes certifications plus bas, j'ai eu de nombreux (très) cours). 
+Cela fait désormais **4 ans** que j'apprends sur mon temps personnel via des cours de chez HTB et en réalisant les box qu'ils proposent (pseudo : [drkr0ot](https://app.hackthebox.com/profile/984954).
 J'ai actuellement plusieurs certifications en cybersécurité. Je les ai obtenu dans un ordre de difficulté croissant selon un chemin que je m'étais moi-même fixé :
 - Cisco Certified Network Associate Security (CCNA Security) de chez Cisco 
 - Certified StormShield Network Administrator (CSNA) de chez StormShield
