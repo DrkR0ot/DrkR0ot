@@ -10,10 +10,10 @@ Cela fait désormais 4ans que j'apprends sur mon temps personnel via des cours d
 J'ai actuellement plusieurs certifications en cybersécurité. Je les ai obtenu dans un ordre de difficulté croissant selon un chemin que je m'étais moi-même fixé :
 - Cisco Certified Network Associate Security (CCNA Security) de chez Cisco 
 - Certified StormShield Network Administrator (CSNA) de chez StormShield
-- Junior Penetration Tester (eJPTv2) de chez INE Security (Ici mes impressions sur mon post linkedIn: https:/linkcuts.org/nen51xjv)
-- Virtual Hacking Labs Advanced Level (VHL) de chez VirtualHackingLab (Ici mes impressions sur mon post linkedIn: https:/linkcuts.org/ha4s5hxu)
-- Virtual Hacking Labs Confirmed Level (VHL+) de chez VirtualHackingLab (Ici mes impressions sur mon post linkedIn: https:/linkcuts.org/kdpxexxw)
-- Certified Penetration Testing Specialist (CPTS) de chez HackTheBox (Ici mes impressions sur mon post linkedIn: https:/linkcuts.org/4rzuoeic)
+- Junior Penetration Tester (eJPTv2) de chez INE Security (Mes impressions : https:/linkcuts.org/nen51xjv)
+- Virtual Hacking Labs Advanced Level (VHL) de chez VirtualHackingLab (Mes impressions : https:/linkcuts.org/ha4s5hxu)
+- Virtual Hacking Labs Confirmed Level (VHL+) de chez VirtualHackingLab (Mes impressions : https:/linkcuts.org/kdpxexxw)
+- Certified Penetration Testing Specialist (CPTS) de chez HackTheBox (Mes impressions : https:/linkcuts.org/4rzuoeic)
 
 ---
 
