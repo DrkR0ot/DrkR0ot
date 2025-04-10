@@ -51,6 +51,6 @@ Retrouvez tous mes projets dans mes [repositories](https://github.com/DrkR0ot?ta
 
 ---
 
-Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes projets ou à me contacter pour discuter de cybersécurité ou collaborer sur un projet.  
+Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes projets ou à me contacter sur discord pour discuter de cybersécurité ou collaborer sur un projet. Pseudo : darkryz#8163.  
 
 > Ensemble, rendons le monde numérique plus sûr ! 🔒
