@@ -45,12 +45,6 @@ Retrouvez tous mes projets dans mes [repositories](https://github.com/DrkR0ot?ta
 
 ---
 
-## 📊 Statistiques GitHub
-![Statistiques de DrkR0ot](https://github-readme-stats.vercel.app/api?username=DrkR0ot&show_icons=true&theme=dark)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=DrkR0ot&layout=compact&theme=dark)
-
----
-
 Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes projets ou à me contacter sur discord pour discuter de cybersécurité ou collaborer sur un projet. Pseudo : darkryz#8163.  
 
 > Ensemble, rendons le monde numérique plus sûr ! 🔒
