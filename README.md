@@ -7,7 +7,7 @@ Mon objectif est de contribuer à rendre le monde numérique plus **sûr** et **
 J'ai débuté avec une formation dans les Systèmes et les Réseaux. Puis en **autodidacte** aux travers de **TryHackMe** pour m'orienter sur la partie **offensive**. 
 Par la suite, j'ai basculé sur la partie académique de chez **Hack The Box** qui est selon moi l'organisme proposant les cours les plus techniques et complets du marché (Et comme vous le verrez au travers de mes certifications plus bas, j'ai eu de (très) nombreux cours). 
 Cela fait désormais **4 ans** que j'apprends sur mon temps personnel via des **cours sur Hack The Box** et en **réalisant les box** qu'ils proposent (pseudo : [drkr0ot](https://app.hackthebox.com/profile/984954)).
-J'ai actuellement plusieurs certifications en cybersécurité. Je les ai obtenu dans un ordre de difficulté croissant selon un chemin que je m'étais moi-même fixé :
+J'ai actuellement plusieurs certifications en cybersécurité. Je les ai obtenues dans un ordre de difficulté croissant selon un chemin que je m'étais moi-même fixé :
 - Cisco Certified Network Associate Security (CCNA Security) de chez Cisco 
 - Certified StormShield Network Administrator (CSNA) de chez StormShield
 - Junior Penetration Tester (eJPTv2) de chez INE Security ([Voir mes impressions](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_cybersecurity-pentesting-redteam-activity-7020064853155282944-9wWQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRK-8MBVF6Q2viJ1QWf5MWuQO-QGfp9r88))
@@ -18,7 +18,7 @@ J'ai actuellement plusieurs certifications en cybersécurité. Je les ai obtenu 
 ---
 
 ## 🌐 Ce que je fais
-- 🔐 Recherche et apprentissage en cybersécurité 
+- 🔐 Recherche et apprentissage en cybersécurité. 
 - 🛠️ Développement d'outils pour la sécurité informatique.
 - 📚 Partage de ressources, astuces et bonnes pratiques pour la communauté.
 
