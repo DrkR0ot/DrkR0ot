@@ -2,10 +2,11 @@
 
 ## 🚀 À propos de moi
 Salut !  
-Je suis **DrkR0ot**, un passionné de cybersécurité offensive.
+Je suis **DrkR0ot**, un passionné de cybersécurité offensive.  
 J’adore explorer, apprendre et partager mes connaissances dans cet univers fascinant.  
-Mon objectif est de **contribuer à rendre le monde numérique plus sûr et plus fiable**, tout en aidant les autres à progresser dans ce domaine.
-J’ai commencé par une formation en Systèmes et Réseaux, avant de me lancer en autodidacte sur **TryHackMe**, pour me **spécialiser dans l’aspect offensif** de la cybersécurité. Par la suite, je me suis tourné vers l’approche plus académique proposée par Hack The Box, qui, selon moi, offre les cours les plus techniques et complets du marché (et comme vous le verrez à travers mes certifications ci-dessous, j’ai suivi de (très) nombreux cours !).  
+Mon objectif est de **contribuer à rendre le monde numérique plus sûr et plus fiable**, tout en aidant les autres à progresser dans ce domaine.  
+J’ai commencé par une formation en Systèmes et Réseaux, avant de me lancer en autodidacte sur **TryHackMe**, pour me **spécialiser dans l’aspect offensif** de la cybersécurité.  
+Par la suite, je me suis tourné vers l’approche plus académique proposée par Hack The Box, qui, selon moi, offre les cours les plus techniques et complets du marché (et comme vous le verrez à travers mes certifications ci-dessous, j’ai suivi de (très) nombreux cours !).  
 Cela fait maintenant **4 ans** que j’apprends sur mon temps personnel, en suivant des cours sur **Hack The Box** et en **réalisant régulièrement leurs machines** (mon pseudo : [drkr0ot](https://app.hackthebox.com/profile/984954)).  
 J’ai aujourd’hui obtenu **plusieurs certifications** en cybersécurité, que j’ai passées dans un ordre de difficulté croissante, selon un parcours que je me suis moi-même construit :
 - Cisco Certified Network Associate Security (CCNA Security) de chez Cisco 
