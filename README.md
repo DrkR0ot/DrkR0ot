@@ -1,51 +1,51 @@
-# Bienvenue sur mon profil GitHub ! 👋
+# Welcome to my GitHub profile! 👋
 
-## 🚀 À propos de moi
-Salut !  
-Je suis **DrkR0ot**, un passionné de cybersécurité offensive.  
-J’adore explorer, apprendre et partager mes connaissances dans cet univers fascinant.  
-Mon objectif est de **contribuer à rendre le monde numérique plus sûr et plus fiable**, tout en aidant les autres à progresser dans ce domaine.  
-J’ai commencé par une formation en Systèmes et Réseaux, avant de me lancer en autodidacte sur **TryHackMe**, pour me **spécialiser dans l’aspect offensif** de la cybersécurité.  
-Par la suite, je me suis tourné vers l’approche plus académique proposée par Hack The Box, qui, selon moi, offre les cours les plus techniques et complets du marché (et comme vous le verrez à travers mes certifications ci-dessous, j’ai suivi de (très) nombreux cours !).  
-Cela fait maintenant **4 ans** que j’apprends en **autodidacte** sur mon temps personnel, en suivant des cours sur **Hack The Box** et en **réalisant régulièrement leurs machines** (mon pseudo : [drkr0ot](https://app.hackthebox.com/profile/984954)).  
-J’ai aujourd’hui obtenu **plusieurs certifications** en cybersécurité, que j’ai passées dans un ordre de difficulté croissante, selon un parcours que je me suis moi-même construit :
-- Cisco Certified Network Associate Security (CCNA Security) de chez Cisco 
-- Certified StormShield Network Administrator (CSNA) de chez StormShield
-- Junior Penetration Tester (eJPTv2) de chez INE Security ([Voir mes impressions](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_cybersecurity-pentesting-redteam-activity-7020064853155282944-9wWQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRK-8MBVF6Q2viJ1QWf5MWuQO-QGfp9r88))
-- Virtual Hacking Labs Advanced Level (VHL) de chez VirtualHackingLab ([Voir mes impressions](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certification-vhl-advanced-level-activity-7057730537964064768--2kU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRK-8MBVF6Q2viJ1QWf5MWuQO-QGfp9r88))
-- Virtual Hacking Labs Confirmed Level (VHL+) de chez VirtualHackingLab ([Voir mes impressions](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certification-vhl-activity-7086330235389898752-KObW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRK-8MBVF6Q2viJ1QWf5MWuQO-QGfp9r88))
-- Certified Penetration Testing Specialist (CPTS) de chez HackTheBox ([Voir mes impressions](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certified-penetration-testing-specialist-activity-7170410937881989120-5ZuG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRK-8MBVF6Q2viJ1QWf5MWuQO-QGfp9r88))
-
----
-
-## 🌐 Ce que je fais
-- 🔐 Recherche et apprentissage en cybersécurité. 
-- 🛠️ Développement d'outils pour la sécurité informatique.
-- 📚 Partage de ressources, astuces et bonnes pratiques pour la communauté.
+## 🚀 About Me
+Hi!  
+I'm **DrkR0ot**, an offensive cybersecurity enthusiast.  
+I love exploring, learning, and sharing my knowledge in this fascinating field.  
+My goal is to **help make the digital world safer and more reliable**, while helping others grow in this area.  
+I started with training in Systems and Networks, then self-taught on **TryHackMe**, specializing in the **offensive side** of cybersecurity.  
+Later, I turned to the more academic approach offered by Hack The Box, which I believe provides the most technical and comprehensive courses on the market (and as you’ll see below, I’m a big fan!).  
+I've now spent **4 years** learning **self-taught** in my spare time, taking **Hack The Box** courses and **regularly completing their machines** (my username is DrkR0ot there too).  
+Today, I have obtained **several cybersecurity certifications**, which I completed in increasing order of difficulty, following my own path:
+- Cisco Certified Network Associate Security (CCNA Security) from Cisco 
+- Certified StormShield Network Administrator (CSNA) from StormShield
+- Junior Penetration Tester (eJPTv2) from INE Security ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_cybersecurity-pentesting-redteam-activity-7020064853155282945-7r3w))
+- Virtual Hacking Labs Advanced Level (VHL) from VirtualHackingLab ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certification-vhl-advanced-level-activity-7057792024183109632-ucQK))
+- Virtual Hacking Labs Confirmed Level (VHL+) from VirtualHackingLab ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certification-vhl-activity-7086330235389898752-2c0v))
+- Certified Penetration Testing Specialist (CPTS) from HackTheBox ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certified-penetration-testing-specialist-activity-7103439723838619648-r1b9))
 
 ---
 
-## ❤️ Mes passions
-- 🕵️‍♂️ Détection et analyse des vulnérabilités.
-- ⚙️ Automatisation des tâches de sécurité avec des scripts et outils personnalisés.
+## 🌐 What I Do
+- 🔐 Research and learning in cybersecurity.
+- 🛠️ Developing tools for information security.
+- 📚 Sharing resources, tips, and best practices for the community.
 
 ---
 
-## 📂 Mes projets
-Voici quelques projets que je développe :
-- **[Enumeration RPC](https://github.com/DrkR0ot/Enumeration-RPC)** : Script permettant de lister les groupes présent sur l'AD et propose de façon interactive de lister les utilisateurs d'un groupe.
-- **[Obfuscation](https://github.com/DrkR0ot/Obfuscation)** : Script utilisable sous Linux ou Windows permettant d'obfusquer de façon simple des commandes.
-- **[CTF](https://github.com/DrkR0ot/CTF)** : Création de nombreux CTFs pour s'améliorer en sécurité offensive et défensive.
-
-Retrouvez tous mes projets dans mes [repositories](https://github.com/DrkR0ot?tab=repositories).
+## ❤️ My Passions
+- 🕵️‍♂️ Detecting and analyzing vulnerabilities.
+- ⚙️ Automating security tasks with custom scripts and tools.
 
 ---
 
-## 🌟 Où me trouver ?
-- 💬 LinkedIn : [Lien vers mon LinkedIn](https://www.linkedin.com/in/gregoire-durand-drkr0ot/)
+## 📂 My Projects
+Here are a few projects I’m developing:
+- **[Enumeration RPC](https://github.com/DrkR0ot/Enumeration-RPC)**: Script to list groups present on AD and interactively list the users of a group.
+- **[Obfuscation](https://github.com/DrkR0ot/Obfuscation)**: Script usable on Linux or Windows to easily obfuscate commands.
+- **[CTF](https://github.com/DrkR0ot/CTF)**: Creation of numerous CTFs to improve offensive and defensive security skills.
+
+Find all my projects in my [repositories](https://github.com/DrkR0ot?tab=repositories).
 
 ---
 
-Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes projets ou à me contacter sur discord pour discuter de cybersécurité ou collaborer sur un projet. Pseudo : darkryz#8163.  
+## 🌟 Where to Find Me?
+- 💬 LinkedIn: [Link to my LinkedIn](https://www.linkedin.com/in/gregoire-durand-drkr0ot/)
 
-> Ensemble, rendons le monde numérique plus sûr ! 🔒
+---
+
+Thank you for visiting my profile! Feel free to check out my projects or contact me on Discord to discuss cybersecurity or collaborate on a project. Username: darkryz#8163.
+
+> Together, let's make the digital world safer! 🔒
