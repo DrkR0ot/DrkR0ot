@@ -7,7 +7,7 @@ I love exploring, learning, and sharing my knowledge in this fascinating field.
 My goal is to **help make the digital world safer and more reliable**, while helping others grow in this area.  
 I started with training in Systems and Networks, then self-taught on **TryHackMe**, specializing in the **offensive side** of cybersecurity.  
 Later, I turned to the more academic approach offered by Hack The Box, which I believe provides the most technical and comprehensive courses on the market (and as you’ll see below, I’m a big fan!).  
-I've now spent **4 years** learning **self-taught** in my spare time, taking **Hack The Box** courses and **regularly completing their machines** (my username is DrkR0ot there too).  
+I've now spent **4 years** learning **self-taught** in my spare time, taking **Hack The Box** courses and **regularly completing their machines** (my username is [DrkR0ot](https://app.hackthebox.com/profile/984954) there too).  
 Today, I have obtained **several cybersecurity certifications**, which I completed in increasing order of difficulty, following my own path:
 - Cisco Certified Network Associate Security (CCNA Security) from Cisco 
 - Certified StormShield Network Administrator (CSNA) from StormShield
