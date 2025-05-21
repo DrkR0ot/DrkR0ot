@@ -11,10 +11,10 @@ I've now spent **4 years** learning **self-taught** in my spare time, taking **H
 Today, I have obtained **several cybersecurity certifications**, which I completed in increasing order of difficulty, following my own path:
 - Cisco Certified Network Associate Security (CCNA Security) from Cisco 
 - Certified StormShield Network Administrator (CSNA) from StormShield
-- Junior Penetration Tester (eJPTv2) from INE Security ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_cybersecurity-pentesting-redteam-activity-7020064853155282945-7r3w))
-- Virtual Hacking Labs Advanced Level (VHL) from VirtualHackingLab ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certification-vhl-advanced-level-activity-7057792024183109632-ucQK))
-- Virtual Hacking Labs Confirmed Level (VHL+) from VirtualHackingLab ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certification-vhl-activity-7086330235389898752-2c0v))
-- Certified Penetration Testing Specialist (CPTS) from HackTheBox ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certified-penetration-testing-specialist-activity-7103439723838619648-r1b9))
+- Junior Penetration Tester (eJPTv2) from INE Security ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_cybersecurity-pentesting-redteam-activity-7020064853155282944-9wWQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRK-8MBVF6Q2viJ1QWf5MWuQO-QGfp9r88))
+- Virtual Hacking Labs Advanced Level (VHL) from VirtualHackingLab ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certification-vhl-advanced-level-activity-7057730537964064768--2kU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRK-8MBVF6Q2viJ1QWf5MWuQO-QGfp9r88))
+- Virtual Hacking Labs Confirmed Level (VHL+) from VirtualHackingLab ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certification-vhl-activity-7086330235389898752-KObW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRK-8MBVF6Q2viJ1QWf5MWuQO-QGfp9r88))
+- Certified Penetration Testing Specialist (CPTS) from HackTheBox ([See my review](https://www.linkedin.com/posts/gregoire-durand-drkr0ot_certified-penetration-testing-specialist-activity-7170410937881989120-5ZuG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRK-8MBVF6Q2viJ1QWf5MWuQO-QGfp9r88))
 
 ---
 
