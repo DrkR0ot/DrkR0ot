@@ -46,6 +46,6 @@ Find all my projects in my [repositories](https://github.com/DrkR0ot?tab=reposit
 
 ---
 
-Thank you for visiting my profile! Feel free to check out my projects or contact me on Discord to discuss cybersecurity or collaborate on a project. Username: darkryz#8163.
+Thank you for visiting my profile! Feel free to check out my projects or contact me on Discord to discuss cybersecurity or collaborate on a project. Username: **darkryz#8163**.
 
 > Together, let's make the digital world safer! 🔒
