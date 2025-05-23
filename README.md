@@ -33,7 +33,7 @@ Today, I have obtained **several cybersecurity certifications**, which I complet
 
 ## 📂 My Projects
 Here are a few projects I’m developing:
-- **[Enumeration RPC](https://github.com/DrkR0ot/Enumeration-RPC)**: Script to list groups present on AD and interactively list the users of a group.
+- **[Enumeration](https://github.com/DrkR0ot/Enumeration)**: Script to list groups present on AD and interactively list the users of a group.
 - **[Obfuscation](https://github.com/DrkR0ot/Obfuscation)**: Script usable on Linux or Windows to easily obfuscate commands.
 - **[CTF](https://github.com/DrkR0ot/CTF)**: Creation of numerous CTFs to improve offensive and defensive security skills.
 
